@@ -1,0 +1,32 @@
+{
+  "name": "elizabethmiller",
+  "version": "1.0.0",
+  "description": "Elizabethmiller is a Node.js module for color manipulation using the chroma-js library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elizabethmiller5616285/elizabethmiller"
+  },
+  "dependencies": {
+	  "ls-arrayv1": "1.0.0",
+	  "tai-array-generator": "1.0.0",
+	  "limonovp1": "1.0.0",
+	  "loginovy-js": "1.0.0",
+"rodrygarci-new": "1.0.0",
+"solodop-sdk": "1.0.0",
+"mode-tobogunbar": "1.0.0",
+"solodop": "1.0.0",
+"js-edwardcollins": "1.0.0",
+"tai32max32": "1.0.0",
+    "chroma-js": "^2.1.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizabethmiller5616285/elizabethmiller/issues"
+  },
+  "homepage": "https://github.com/elizabethmiller5616285/elizabethmiller#readme"
+}
